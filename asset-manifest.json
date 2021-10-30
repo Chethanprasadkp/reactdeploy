@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactdeploy/static/css/main.041369ee.chunk.css",
+    "main.js": "/reactdeploy/static/js/main.8133a1db.chunk.js",
+    "main.js.map": "/reactdeploy/static/js/main.8133a1db.chunk.js.map",
+    "runtime-main.js": "/reactdeploy/static/js/runtime-main.20ee1dde.js",
+    "runtime-main.js.map": "/reactdeploy/static/js/runtime-main.20ee1dde.js.map",
+    "static/js/2.936aa732.chunk.js": "/reactdeploy/static/js/2.936aa732.chunk.js",
+    "static/js/2.936aa732.chunk.js.map": "/reactdeploy/static/js/2.936aa732.chunk.js.map",
+    "static/js/3.ab8f0e14.chunk.js": "/reactdeploy/static/js/3.ab8f0e14.chunk.js",
+    "static/js/3.ab8f0e14.chunk.js.map": "/reactdeploy/static/js/3.ab8f0e14.chunk.js.map",
+    "index.html": "/reactdeploy/index.html",
+    "static/css/main.041369ee.chunk.css.map": "/reactdeploy/static/css/main.041369ee.chunk.css.map",
+    "static/js/2.936aa732.chunk.js.LICENSE.txt": "/reactdeploy/static/js/2.936aa732.chunk.js.LICENSE.txt",
+    "static/media/CHETHA.e6575c55.jpeg": "/reactdeploy/static/media/CHETHA.e6575c55.jpeg",
+    "static/media/logo.6ce24c58.svg": "/reactdeploy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20ee1dde.js",
+    "static/js/2.936aa732.chunk.js",
+    "static/css/main.041369ee.chunk.css",
+    "static/js/main.8133a1db.chunk.js"
+  ]
+}
